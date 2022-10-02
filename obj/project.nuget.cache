@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GL4UYJP8N2LQ29n75KeK3E7chg1AmHrjNxzwAT8A6KakTKL26OhIbdXLbpduhtWfZ5qxygwUT6jIl6ZmTBXz2g==",
+  "dgSpecHash": "Cw2K0KzLv+q4tzBtpSJSdQcTALRTmzFlNwUj8aGmp7YQqmghuVXWY1MU2kE2eGnMLONAMHscbuiq2jwsQN9hXQ==",
   "success": true,
-  "projectFilePath": "/Users/faysalregal/Projects/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields.csproj",
+  "projectFilePath": "/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields.csproj",
   "expectedPackageFiles": [
     "/Users/faysalregal/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.24/microsoft.netcore.app.host.osx-x64.3.1.24.nupkg.sha512"
   ],

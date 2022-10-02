@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/faysalregal/Projects/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields.csproj",
+      "projectUniqueName": "/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields.csproj",
       "projectName": "Csharp-Intermediate-Demo-Fields",
-      "projectPath": "/Users/faysalregal/Projects/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields.csproj",
+      "projectPath": "/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields.csproj",
       "packagesPath": "/Users/faysalregal/.nuget/packages/",
-      "outputPath": "/Users/faysalregal/Projects/Csharp-Intermediate-Demo-Fields/Csharp-Intermediate-Demo-Fields/obj/",
+      "outputPath": "/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/faysalregal/.config/NuGet/NuGet.Config"

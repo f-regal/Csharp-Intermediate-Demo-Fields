@@ -1,0 +1,14 @@
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/bin/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/bin/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.deps.json
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/bin/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.runtimeconfig.json
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/bin/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.runtimeconfig.dev.json
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/bin/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.dll
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/bin/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.pdb
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.csproj.AssemblyReference.cache
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.AssemblyInfoInputs.cache
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.AssemblyInfo.cs
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.csproj.CoreCompileInputs.cache
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.dll
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.pdb
+/Users/faysalregal/Desktop/C# Intermediate/Section 2 - Classes/Demos/Csharp-Intermediate-Demo-Fields/obj/Debug/netcoreapp3.1/Csharp-Intermediate-Demo-Fields.genruntimeconfig.cache

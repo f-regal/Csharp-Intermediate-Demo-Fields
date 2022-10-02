@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BB5CC73E-6B18-4A97-92CC-982877E7CEC0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Csharp-Intermediate-Demo-Fields PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Customer.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="52" />
+      <File FileName="Customer.cs" Line="23" Column="1" />
+      <File FileName="Order.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Csharp-Intermediate-Demo-Fields" expanded="True">
+            <Node name="Csharp-Intermediate-Demo-Fields" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
